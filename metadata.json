@@ -1,0 +1,6 @@
+{
+  "name": "NEON_SNAKE://AUDIO_PROTOCOL",
+  "description": "A glitch-art retro-futuristic Snake game bundled with an AI music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
